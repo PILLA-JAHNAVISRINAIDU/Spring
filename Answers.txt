@@ -1,0 +1,59 @@
+Name:- JAHNAVI SRI NAIDU PILLA
+EMPNO:-A0003R
+Q1.Dependency Injection, Pluggability, Inversion of Container, Aspect Oriented Programming, Lightweight, MVC.
+Q2.It is an open-source application framework that provides infrastructure support for developing Java applicatioms.
+Q3.Ease of Testability, No need Server, Use of POJO, Inversion Control and API'S, Use of Modularity
+Q4.IoC, Data access Framework, Support for Aspect-Oriented Programing, MVC framework, Web Service
+Q5.20 Modules are present
+   Data Access/Integration:-JDBC, ORM, OXM, JMS, Transactions
+   Web:- WebSocket, Servlet, Web, Porlet,
+   AOP, Aspects, Instrumentation, Messaging
+   Core Container:- Beans, Core, Context, SpEL
+   Test
+Q6.XML file
+Q7. Interface,Bean class, User program
+Q8. It can be used as a full time spring web application
+    Using Spring framework middle-tier it is used as 3rd party
+Q9. It is the program that injects dependencies into an object and make it ready for use.
+Q10. It is a fundamental aspect of the Spring framework through which the spring container injects objects into other objects or dependencies
+Q11. Step1:- open IntelliJ IDEA and click on the new project.
+     Step2:- Select Spring Initializr from the project type which is on left side panel, Select the correct JDK from the project SDK  drop-down
+     Step3:- Enter the maven project properties and click on next
+     Step4:-Select the spring boot version and other required dependencies
+     Step5:- give your projectname and project location and click on finish button
+Q12. server.port=9090
+Q13. By excluding the ErrorMvcAutoConfiguration
+Q14. By the use of Spring interceptors, Locale Resolvers and REsource Bundles for different locales
+Q15.Bean Factory:- It has a Manual BeanPostProcessor registration
+                   Support lazy loading
+                   Doesn't support the annotation based dependency injection
+                   Doesn't support I18N
+    Application Context:-It has an Automatic BeanPostProcessor registration
+                         Support Aggressive loading
+                         support the annotation based dependency injection
+                         support I18N
+Q16. Autowired annotation provides more fine-grained control over where and how autowiring should be accomplished, which is part of spring framework
+     Inject annotation is part of Java CDI
+     Quantifier annotation is used to resolve the autowiring conflict, when they are multiple beans of same type.
+
+Section B
+Q1:-D
+Q2:-A
+Q3:-B
+Q4:-A
+Q5:-B
+Q6:-A
+Q7:-A
+Q8:-A
+Q9:-A
+Q10:-D
+Q11:-B
+Q12:-D
+Q13:-B
+Q14:-B
+Q15:-D
+Q16:-C
+Q17:-A
+Q18:-B
+Q19:-C
+Q20:-D          
